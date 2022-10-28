@@ -1,0 +1,22 @@
+.content-left{
+    width: 500px;
+    height: 500px;
+    /* border: 1px solid black; */
+    padding: 80px;
+    box-sizing: border-box;
+    margin-left: 200px;
+    color: lightskyblue;
+    float: left;
+}
+
+.container-right img{
+    width:500px;
+    height: 500px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+
+.clear-all{
+    clear: both;
+}
+
